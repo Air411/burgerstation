@@ -1,7 +1,5 @@
 /turf/simulated/wall/metal
 	name = "steel wall"
-	desc = "Try getting through that"
-	desc_extended = "It's a wall made of solid steel, pretty tough."
 	icon = 'icons/turf/wall/metal_new.dmi'
 	icon_state = "wall"
 	corner_icons = TRUE
@@ -39,8 +37,6 @@
 
 /turf/simulated/wall/metal/reinforced
 	name = "plasteel reinforced steel wall"
-	desc = "Try getting through that"
-	desc_extended = "It's a wall made of steel reinforced with plasteel, really tough."
 	icon_state = "wall_ref"
 	reinforced_material_id = /material/plasteel
 	reinforced_color = COLOR_PLASTEEL
@@ -48,8 +44,6 @@
 
 /turf/simulated/wall/metal/reinforced/hull
 	name = "adamantium-carbon reinforced plasteel wall"
-	desc = "Try getting through that"
-	desc_extended = "It's a wall made of plasteel reinforced with an adamantium-carbon alloy, extremely tough."
 	reinforced_material_id = /material/adamantium_carbon
 	color = "#48482B"
 	reinforced_color = COLOR_ADAMANITUM_CARBON

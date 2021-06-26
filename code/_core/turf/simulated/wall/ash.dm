@@ -1,9 +1,6 @@
 /turf/simulated/wall/ash
 	name = "ash wall"
 
-	desc = "Gotta catch em all"
-	desc_extended = "A solid wall of ash."
-
 	real_icon = 'icons/turf/floor/ash.dmi'
 	real_icon_state = "floor"
 
@@ -32,6 +29,4 @@
 
 /turf/simulated/wall/ash/dark
 	name = "volcanic ash wall"
-	desc = "Gotta catch em all"
-	desc_extended = "A solid wall of volcanic ash."
 	color = "#262626"
